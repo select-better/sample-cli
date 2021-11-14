@@ -1,0 +1,13 @@
+{
+  "name": "sample-cli",
+  "version": "1.0.0",
+  "description": "ces",
+  "main": "index.js",
+  "bin": "cli.js",
+  "author": "wcl",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "inquirer": "^8.2.0"
+  }
+}
